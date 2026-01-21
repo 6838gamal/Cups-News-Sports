@@ -1,0 +1,184 @@
+{
+  "placeholderImages": [
+    {
+      "id": "breaking-news-1",
+      "description": "Arsenal players celebrating a goal in a packed stadium.",
+      "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBjZWxlYnJhdGlvbnxlbnwwfHx8fDE3Njg5NzYxMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer celebration"
+    },
+    {
+      "id": "breaking-news-2",
+      "description": "The Barcelona team posing for a group photo on the pitch.",
+      "imageUrl": "https://images.unsplash.com/photo-1605641003882-939029961601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiYXJjZWxvbmElMjBzb2NjZXIlMjB0ZWFtfGVufDB8fHx8MTc2OTU2MjQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "barcelona team"
+    },
+    {
+      "id": "breaking-news-3",
+      "description": "A tennis player hitting a forehand at the Australian Open.",
+      "imageUrl": "https://images.unsplash.com/photo-1554062238-083d806509a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZW5uaXMlMjBtYXRjaHxlbnwwfHx8fDE3Njg5NzYxMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tennis match"
+    },
+    {
+      "id": "latest-news-1",
+      "description": "A wide shot of a soccer stadium full of fans.",
+      "imageUrl": "https://images.unsplash.com/photo-1515523110800-9415d13b84a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBzdGFkaXVtfGVufDB8fHx8MTc2OTU2MjQ4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soccer stadium"
+    },
+    {
+      "id": "latest-news-2",
+      "description": "A satellite broadcast van outside a sports arena.",
+      "imageUrl": "https://images.unsplash.com/photo-1588503823829-d59c63454316?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcG9ydHMlMjBicm9hZGNhc3R8ZW58MHx8fHwxNzY5NTYyNTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports broadcast"
+    },
+    {
+      "id": "latest-news-3",
+      "description": "A wheelchair basketball player in action during a paralympic game.",
+      "imageUrl": "https://images.unsplash.com/photo-1599383637128-1518b0f44f49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYXJhbHltcGljJTIwYmFza2V0YmFsbHxlbnwwfHx8fDE3Njk1NjI1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paralympic basketball"
+    },
+    {
+      "id": "latest-news-4",
+      "description": "Runners at the start of a marathon.",
+      "imageUrl": "https://images.unsplash.com/photo-1596727362302-b8d891c42ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtYXJhdGhvbiUyMHJ1bm5lcnN8ZW58MHx8fHwxNzY4OTc2MTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "marathon runners"
+    },
+    {
+      "id": "latest-news-5",
+      "description": "A golfer swinging a club.",
+      "imageUrl": "https://images.unsplash.com/photo-1600609292693-5154474f13fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z29sZmVyJTIwc3dpbmd8ZW58MHx8fHwxNzY4OTc2MTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "golfer swing"
+    },
+    {
+      "id": "latest-news-6",
+      "description": "A cricket batsman hitting the ball.",
+      "imageUrl": "https://images.unsplash.com/photo-1646282814550-f521d9b57a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjcmlja2V0JTIwYmF0c21hbnxlbnwwfHx8fDE3Njg5NzYxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cricket batsman"
+    },
+    {
+      "id": "analysis-1",
+      "description": "A coach drawing up a play on a whiteboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1762742228148-f38c34ea7f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29hY2glMjBzdHJhdGVneXxlbnwwfHx8fDE3Njg5NzYxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coach strategy"
+    },
+    {
+      "id": "analysis-2",
+      "description": "A wide shot of Barcelona's Camp Nou stadium.",
+      "imageUrl": "https://images.unsplash.com/photo-1598448378546-32d84792b956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW1wJTIwbm91fGVufDB8fHx8MTc2OTU2MjY4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "camp nou"
+    },
+    {
+      "id": "arsenal-logo",
+      "description": "Arsenal Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1753078952167-5779a8532333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYW5ub24lMjBsb2dvfGVufDB8fHx8MTc2ODk5MDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cannon logo"
+    },
+    {
+      "id": "inter-logo",
+      "description": "Inter Milan Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1594384151968-e1616fa703ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbmFrZSUyMGNyZXN0fGVufDB8fHx8MTc2ODk5MDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "snake crest"
+    },
+    {
+      "id": "barcelona-logo",
+      "description": "Barcelona Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1713858579316-6e87603f80b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiYXJjZWxvbmElMjBjcmVzdHxlbnwwfHx8fDE3Njg5OTA5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "barcelona crest"
+    },
+    {
+      "id": "slavia-prague-logo",
+      "description": "Slavia Prague Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1734865799419-ac2d43bde8d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZWQlMjBzdGFyfGVufDB8fHx8MTc2ODk5MDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red star"
+    },
+    {
+      "id": "galatasaray-logo",
+      "description": "Galatasaray Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1657652917132-1ca1518bd54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGlvbiUyMGNyZXN0fGVufDB8fHx8MTc2ODk5MDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lion crest"
+    },
+    {
+      "id": "atletico-madrid-logo",
+      "description": "Atletico Madrid Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1675919429730-234e60f6f3b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiZWFyJTIwdHJlZXxlbnwwfHx8fDE3Njg5OTA5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bear tree"
+    },
+    {
+      "id": "bayern-logo",
+      "description": "Bayern Munich Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1653405507161-da7d205d86f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkaWFtb25kJTIwcGF0dGVybnxlbnwwfHx8fDE3Njg5OTA5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "diamond pattern"
+    },
+    {
+      "id": "union-sg-logo",
+      "description": "Union SG Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1701500096456-28186c4a306d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2hpZWxkJTIwbG9nb3xlbnwwfHx8fDE3Njg5ODY5MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shield logo"
+    },
+    {
+      "id": "newcastle-logo",
+      "description": "Newcastle Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1661666095234-c332922d764e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYWdwaWUlMjBsb2dvfGVufDB8fHx8MTc2ODk5MDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "magpie logo"
+    },
+    {
+      "id": "psv-logo",
+      "description": "PSV Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1612526445755-02f96c307543?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVkJTIwd2hpdGV8ZW58MHx8fHwxNzY4OTkwOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red white"
+    },
+    {
+      "id": "marseille-logo",
+      "description": "Marseille Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1656908140565-f1947922002f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibHVlJTIwd2hpdGV8ZW58MHx8fHwxNzY4OTkwOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue white"
+    },
+    {
+      "id": "liverpool-logo",
+      "description": "Liverpool Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1632383268793-e532528dcb42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsaXZlciUyMGJpcmR8ZW58MHx8fHwxNzY4OTkwOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "liver bird"
+    },
+    {
+      "id": "man-utd-logo",
+      "description": "Man Utd Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1565009106478-ce1b026717ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZWQlMjBkZXZpbHxlbnwwfHx8fDE3Njg5OTA5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red devil"
+    },
+    {
+      "id": "southampton-logo",
+      "description": "Southampton Logo",
+      "imageUrl": "https://picsum.photos/seed/southampton/100/100",
+      "imageHint": "halo crest"
+    },
+    {
+      "id": "sheffield-logo",
+      "description": "Sheffield Utd Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1602889341997-d1b6bd7b3dc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjcm9zc2VkJTIwYmxhZGVzfGVufDB8fHx8MTc2ODk5MDkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "crossed blades"
+    },
+    {
+      "id": "cup-logo-1",
+      "description": "Premier League Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1742811969430-dcce2d894691?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaW9uJTIwbG9nb3xlbnwwfHx8fDE3Njg4OTQ2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lion logo"
+    },
+    {
+      "id": "cup-logo-2",
+      "description": "Champions Cup Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1599451428350-00c500716b18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0cm9waHklMjBsb2dvfGVufDB8fHx8MTc2ODk3NjEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trophy logo"
+    },
+    {
+      "id": "cup-logo-3",
+      "description": "La Liga Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1683296086394-dde7e81fde7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3BhaW4lMjBsb2dvfGVufDB8fHx8MTc2ODk3NjEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spain logo"
+    },
+    {
+      "id": "cup-logo-4",
+      "description": "World Cup Logo",
+      "imageUrl": "https://images.unsplash.com/photo-1637203723090-10270963cb54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b3JsZCUyMHRyb3BoeXxlbnwwfHx8fDE3Njg5NzYxMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "world trophy"
+    }
+  ]
+}
